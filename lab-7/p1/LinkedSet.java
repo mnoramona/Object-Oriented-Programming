@@ -1,4 +1,4 @@
-package lab7.problema2;
+package lab7.problema1;
 
 import java.util.Comparator;
 import java.util.LinkedList;
